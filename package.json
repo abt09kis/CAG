@@ -1,0 +1,24 @@
+{
+  "name": "cag-geometry-lib",
+  "version": "1.0.0",
+  "description": "case for cag edge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abt09kis/CAG.git"
+  },
+  "keywords": [
+    "geometry",
+    "circumference",
+    "area."
+  ],
+  "author": "Kevin Ispiroglu Lindblad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abt09kis/CAG/issues"
+  },
+  "homepage": "https://github.com/abt09kis/CAG#readme"
+}
