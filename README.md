@@ -276,3 +276,7 @@ To find the area of all the shapes supplied to the constructor.
 **Returns**: <code>number</code> - The numerical value of the combined area of the shapes sent in as arguments.  
 **this**: <code>{ComulativeAreas}</code>  
 **Access:** public  
+
+
+<h2>Motivation of solution</h2>
+Coming from a background where I've practiced OOP from the early start and later moved on to JavaScript, I felt that it came easily to me using an abstract class as the foundation of the library, seeing as it closely resembles an interface, seeing since JavaScript doesn't explicitly support interfaces this seemed like a good start. Although it somewhat destroys the principle of open/closed, seeing as they make it somewhat trickier to add functionality to an API for example they instead facilitate a more extensice way "type-checking" while using ``ìnstanceof``` although it should be used carefully as it could missmatch. The syntax for classes are also a bit more familiar coming from an OOP background (Java).
