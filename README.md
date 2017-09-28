@@ -28,7 +28,7 @@ console.log(rectangle.circumference()); // 60
 
 In order to run the tests that are attached to the repository after having cloned it run the following command.
 
-``` npm test ```
+``` npm test ``
 
 
 <h2>Documentation</h2>
@@ -63,12 +63,12 @@ In order to run the tests that are attached to the repository after having clone
 
 <a name="module_cag-geometry-lib..Shape"></a>
 
-### cag-geometry-lib~Shape
+### cag-geometry-lib Shape
 **Purpuose**: Used as an abstract class to <code>[cag-geometry-lib](#module_cag-geometry-lib)</code>  
 **this**: <code>{Shape}</code>  
 **Access:** public  
 
-* [~Shape](#module_cag-geometry-lib..Shape)
+* [ Shape](#module_cag-geometry-lib..Shape)
     * [`new Shape()`](#new_module_cag-geometry-lib..Shape_new)
     * [`.circumference()`](#module_cag-geometry-lib..Shape+circumference) ⇒ <code>number</code>
     * [`.area()`](#module_cag-geometry-lib..Shape+area) ⇒ <code>number</code>
@@ -98,12 +98,12 @@ Will return zero for the default shape.
 **Access:** public  
 <a name="module_cag-geometry-lib..RightAngledTriangle"></a>
 
-### cag-geometry-lib~RightAngledTriangle
+### cag-geometry-lib RightAngledTriangle
 **Kind**: inner class of <code>[cag-geometry-lib](#module_cag-geometry-lib)</code>  
 **this**: <code>{RightAngledTriangle}</code>  
 **Access:** public  
 
-* [~RightAngledTriangle](#module_cag-geometry-lib..RightAngledTriangle)
+* [RightAngledTriangle](#module_cag-geometry-lib..RightAngledTriangle)
     * [`new RightAngledTriangle(a ,b, c)`](#new_module_cag-geometry-lib..RightAngledTriangle_new)
     * [`.circumference()`](#module_cag-geometry-lib..RightAngledTriangle+circumference) ⇒ <code>number</code>
     * [`.area()`](#module_cag-geometry-lib..RightAngledTriangle+area) ⇒ <code>number</code>
@@ -149,12 +149,12 @@ In case that the triangle is right angled, as it is in this case, the side (a) i
 **Access:** public  
 <a name="module_cag-geometry-lib..Rectangle"></a>
 
-### cag-geometry-lib~Rectangle
+### cag-geometry-lib Rectangle
 **Kind**: inner class of <code>[cag-geometry-lib](#module_cag-geometry-lib)</code>  
 **this**: <code>{Rectangle}</code>  
 **Access:** public  
 
-* [~Rectangle](#module_cag-geometry-lib..Rectangle)
+* [ Rectangle](#module_cag-geometry-lib..Rectangle)
     * [`new Rectangle(x, y)`](#new_module_cag-geometry-lib..Rectangle_new)
     * [`.circumference()`](#module_cag-geometry-lib..Rectangle+circumference) ⇒ <code>number</code>
     * [`.area()`](#module_cag-geometry-lib..Rectangle+area) ⇒ <code>number</code>
@@ -197,12 +197,12 @@ To find the area of a rectangle, multiply the length by the width.
 **Access:** public  
 <a name="module_cag-geometry-lib..Circle"></a>
 
-### cag-geometry-lib~Circle
+### cag-geometry-lib Circle
 **Kind**: inner class of <code>[cag-geometry-lib](#module_cag-geometry-lib)</code>  
 **this**: <code>{Circle}</code>  
 **Access:** public  
 
-* [~Circle](#module_cag-geometry-lib..Circle)
+* [ Circle](#module_cag-geometry-lib..Circle)
     * [`new Circle(r)`](#new_module_cag-geometry-lib..Circle_new)
     * [`.circumference()`](#module_cag-geometry-lib..Circle+circumference) ⇒ <code>number</code>
     * [`.area()`](#module_cag-geometry-lib..Circle+area) ⇒ <code>number</code>
@@ -242,12 +242,12 @@ To find the area of a circle.
 **Access:** public  
 <a name="module_cag-geometry-lib..ComulativeAreas"></a>
 
-### cag-geometry-lib~ComulativeAreas
+### cag-geometry-lib ComulativeAreas
 **Kind**: inner class of <code>[cag-geometry-lib](#module_cag-geometry-lib)</code>  
 **this**: <code>{ComulativeAreas}</code>  
 **Access:** public  
 
-* [~ComulativeAreas](#module_cag-geometry-lib..ComulativeAreas)
+* [ ComulativeAreas](#module_cag-geometry-lib..ComulativeAreas)
     * [`new ComulativeAreas(...varArgs)`](#new_module_cag-geometry-lib..ComulativeAreas_new)
     * [`.area()`](#module_cag-geometry-lib..ComulativeAreas+area) ⇒ <code>number</code>
 
