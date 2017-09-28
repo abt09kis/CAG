@@ -28,7 +28,7 @@ console.log(rectangle.circumference()); // 60
 
 In order to run the tests that are attached to the repository after having cloned it run the following command.
 
-``` npm test `` 
+``` npm test ```
 
 
 <h2>Documentation</h2>
